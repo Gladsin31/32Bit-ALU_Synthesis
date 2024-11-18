@@ -1,6 +1,6 @@
 # Exp-5: 32Bit-ALU_Synthesis
 
-## Aim:
+## Aim :
 
 Synthesize 32 Bit ALU design using Constraints and analyse area and Power reports.
 
